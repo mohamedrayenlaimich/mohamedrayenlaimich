@@ -1,6 +1,6 @@
 
 
-<!--<div align="center">
+<div align="center">
 
 # 👋 Hi, I'm Mohamed Rayen Laimich
 
@@ -209,4 +209,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
