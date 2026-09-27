@@ -1,25 +1,27 @@
+<!-- ======================= HEADER ======================= -->
+
 <div align="center">
 
-# 👋 Hi, I'm Mohamed Rayen Laimich
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=220&section=header&text=Mohamed%20Rayen%20Laimich&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20Scientist%20Engineer%20%7C%20AI%20%26%20Machine%20Learning&descAlignY=55&descSize=18" />
 
-### 📊 Data Scientist Engineer | 🤖 AI & Machine Learning | 🐍 Python
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Data+Scientist+Engineer;Python+%7C+Data+Science+%7C+Machine+Learning;Artificial+Intelligence+%7C+Computer+Vision;Building+Data-Driven+Solutions;Turning+Data+Into+Intelligence" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Data+Scientist+Engineer;Machine+Learning+Enthusiast;Python+Developer;AI+%26+Computer+Vision;Data+Driven+Problem+Solver" />
+<br>
 
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=mohamedrayenlaimich&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=mohamedrayenlaimich&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🧑‍💻 About Me
+<!-- ======================= ABOUT ======================= -->
 
-I'm a **Data Scientist Engineer** passionate about transforming data
-into meaningful insights and building intelligent solutions.
+# 👨‍💻 About Me
 
-My main interests include:
+I'm a **Data Scientist Engineer** interested in turning data into
+useful insights and intelligent applications.
+
+My main areas of interest are:
 
 - 📊 Data Science & Data Analysis
 - 🤖 Machine Learning
@@ -27,52 +29,51 @@ My main interests include:
 - 👁️ Computer Vision
 - 🐍 Python
 - 🗄️ SQL & Databases
-- ⚽ Football Analytics
+- ⚽ Sports & Football Analytics
 
-I learn by building real-world projects, experimenting with data,
-and exploring new technologies.
+I enjoy learning through **real-world projects**, experimentation,
+and solving problems with data.
+
+> 💡 **My goal:** Build intelligent systems that transform raw data
+> into useful information and real-world solutions.
 
 ---
 
-# 🚀 What I'm Currently Working On
+# 🧠 Data Science Focus
 
-- ⚽ Football Player Tracking & Analytics
-- 🤖 Machine Learning projects
-- 📊 Data Analysis with Python
-- 👁️ Computer Vision
-- 🐍 Advanced Python
-- 🗄️ SQL & Database Systems
+<div align="center">
+
+| 📊 Data | 🤖 Machine Learning | 🧠 AI | 👁️ Computer Vision |
+|:---:|:---:|:---:|:---:|
+| Data Analysis | Supervised Learning | AI Applications | Object Detection |
+| Pandas | Classification | Intelligent Systems | Tracking |
+| NumPy | Regression | Model Development | Image Processing |
+| Visualization | Prediction | Automation | Video Analysis |
+
+</div>
 
 ---
 
 # 🛠️ Tech Stack
 
-## 🐍 Programming Languages
+### 🐍 Programming
 
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,ts" />
-
 </p>
 
----
+### 📊 Data Science & AI
 
-## 📊 Data Science & AI
-
-<p align="left">
-
+<p>
 <img src="https://skillicons.dev/icons?i=python,tensorflow" />
-
 </p>
-
-**Main areas:**
 
 ```text
-🐍 Python
-📊 Data Analysis
-🔢 NumPy
-🐼 Pandas
-📈 Data Visualization
-🤖 Machine Learning
-🧠 Artificial Intelligence
-👁️ Computer Vision
+Python
+NumPy
+Pandas
+Matplotlib
+Data Analysis
+Machine Learning
+Computer Vision
+Artificial Intelligence
